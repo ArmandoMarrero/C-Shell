@@ -1,7 +1,7 @@
 <br>
 
+![github-header-image(1)](https://github.com/ArmandoMarrero/holbertonschool-simple_shell/assets/143634181/a3b45d99-ce07-4060-af3c-e99225eef37b)
 
-<h1><p align="Simple-Shell">Simple_shell</h1></p></font>
 
 ## Table of Contents
 
